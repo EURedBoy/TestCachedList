@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "b40ftyoqinuIISjbFQXO6Riwempu3QdthH7nERt4xv2Xeyh7KFKbZSO1WXS2zlUIzZ8IXAoAcQUDVmpLsMu+IQ==",
+  "success": false,
+  "projectFilePath": "/Users/alex/RiderProjects/TestCachedList/TestCachedList.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/Users/alex/RiderProjects/SettingsProxy/SettingsProxy.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/Users/alex/RiderProjects/SettingsProxy/SettingsProxy.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

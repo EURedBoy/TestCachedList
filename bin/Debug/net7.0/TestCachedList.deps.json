@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestCachedList/1.0.0": {
+        "dependencies": {
+          "SettingsProxy": "1.0.0"
+        },
+        "runtime": {
+          "TestCachedList.dll": {}
+        }
+      },
+      "System.Speech/8.0.0-preview.2.23128.3": {
+        "runtime": {
+          "lib/net7.0/System.Speech.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "8.0.23.12803"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Speech.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "8.0.23.12803"
+          }
+        }
+      },
+      "SettingsProxy/1.0.0": {
+        "dependencies": {
+          "System.Speech": "8.0.0-preview.2.23128.3"
+        },
+        "runtime": {
+          "SettingsProxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestCachedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Speech/8.0.0-preview.2.23128.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KoOh2M2V6icJuTZWE0LRx2SiSCvcEI9tlL9Ho2YLaYJUiuZZ3GlYA98IVFukwEznH9yGnnWWSNFGBh2F2hy0Pg==",
+      "path": "system.speech/8.0.0-preview.2.23128.3",
+      "hashPath": "system.speech.8.0.0-preview.2.23128.3.nupkg.sha512"
+    },
+    "SettingsProxy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
